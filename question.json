@@ -5,62 +5,73 @@
                "pregunta": "¿Quién dirigió la película 'Pulp Fiction'?",
                "opciones": ["Quentin Tarantino", "James Cameron","Steven Spiverg","Mel Gibson"],
                "answer": 0,
-                "respuesta": "Quentin Tarantino"
+                "respuesta": "Quentin Tarantino",
+                "explanation": "Película estadounidense de 1994​ escrita y dirigida por Quentin Tarantino."
+              
              },
              {
               "pregunta": "¿Quién interpreta el papel de Iron Man en el Universo Cinematográfico de Marvel?",
               "opciones":["James Franco", "Zac Efron", "Tom Holland", "Robert Dawney Jr."],
               "answer": 3,
-              "respuesta": "Robert Downey Jr."
+              "respuesta": "Robert Downey Jr.",
+              "explanation": "Downey ganó reconocimiento mundial por interpretar a Tony Stark/Iron Man en diez películas dentro del Universo Cinematográfico de Marvel."
             },
             {
               "pregunta": "¿Cuál es la película más taquillera de todos los tiempos?",
               "opciones":["Titanic", "Avatar", "Forrest Gump", "Advengers: Endgame"],
               "answer": 3,
-              "respuesta": "Avengers: Endgame"
+              "respuesta": "Avengers: Endgame",
+              "explanation": "'Vengadores: Endgame' era, hasta ahora, la película más taquillera de la historia. Con un presupuesto de 356 millones de dólares y una recaudación global de casi 2.797 millones de dólares"
             },
             {
               "pregunta": "¿En qué año se estrenó la primera película de Star Wars?",
               "opciones":["1987", "1978",  "1977","1994"],
               "answer": 2,
-              "respuesta": "1977"
+              "respuesta": "1977",
+              "explanation": "La primera película de la serie, Star Wars: Episodio IV - Una nueva esperanza que fue producida por 20th Century Fox (1977)"
             },
             {
               "pregunta": "¿Cuál es el director de la trilogía 'El Padrino'?",
               "opciones": ["Steven Spielberg" ,"Francis Ford Coppola", "Ingmar Bergman","Federico Fellini"],
               "answer": 1,
-              "respuesta": "Francis Ford Coppola"
+              "respuesta": "Francis Ford Coppola",
+              "explanation": "El padrino es el nombre que reciben las películas dirigidas por Francis Ford Coppola​ y escritas por él mismo junto con el novelista Mario Puzo"
             },
             {
               "pregunta": "¿En qué año se estrenó la película 'El Padrino'?",
               "opciones":["1987", "1979", "1998", "1972"],
               "answer": 3,
-              "respuesta": "1972"
+              "respuesta": "1972",
+              "explanation": "Película estadounidense de 1972"
             },
             {
               "pregunta": "¿Quién interpretó el papel de Neo en 'The Matrix'?",
               "opciones":["Keanu Reeves","James Franco", "Bradley Copper", "Tom Hanks"],
               "answer": 0,
-              "respuesta": "Keanu Reeves"
+              "respuesta": "Keanu Reeves",
+              "explanation": "The Matrix (conocida como Matrix en Hispanoamérica) es una película de acción y cienciaficcion protagonizada por Keanu Reeves"
             },
             {
             "pregunta": "¿En qué película aparece el personaje de Hannibal Lecter?",
-            "opciones":["Dragon", "Puerta al Infierno", "La noche del demonio", "El silencio de los inocentes"],
+            "opciones":["El Conjuro", "Puerta al Infierno", "La noche del demonio", "El silencio de los inocentes"],
             "answer": 3,
-            "respuesta": "El silencio de los inocentes"
+            "respuesta": "El silencio de los inocentes",
+            "explanation": "El Dr. Hannibal Lecter es un psicópata de ficción inventado por el novelista Thomas Harris"
             },
            {
             "pregunta": "¿Cuantas peliculas tiene la saga 'Rapido y Furioso'?",
             "opciones":["10", "8", "5", "3"],
             "answer": 0,
-            "respuesta": "10"
+            "respuesta": "10",
+            "explanation": "La franquicia en total consta, hasta 2023, de  que Diez componen la saga principal, mientras que hay un spin-off de 2019 de los personajes de Hobbs y Shaw."
           },
 
           {
            "pregunta": "¿Cuál es el actor principal de la película 'Forrest Gump'?",
            "opciones": ["Bruce Willis","Tom Hanks", "Arnold Schwarzenegger","Sylvester Stallone"],
            "answer": 1,
-           "respuestas": "Tom Hanks"
+           "respuestas": "Tom Hanks",
+           "explanation": "En 1994, 'Forrest Gump' ganó seis estatuillas de la Academia, convirtió a Tom Hanks en un icono del cine "
           }
  ]
 }
